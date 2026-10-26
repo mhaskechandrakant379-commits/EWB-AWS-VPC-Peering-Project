@@ -36,4 +36,4 @@ Numbered PNG files in this repository document the available AWS configuration e
 AWS Asia Pacific (Sydney): ap-southeast-2
 
 ## Author
-Chandrakant Mhaske
+Chandrakant Ananta Mhaske
